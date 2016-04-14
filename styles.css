@@ -17,6 +17,17 @@ body, input[text], button {
   font-family: Cambria, Georgia; 
 }
 
+.main-sidebar {
+  width: 300px;
+  height: 100%;
+  position: absolute;
+}
+.main-header {
+  margin-left: 300px;
+}
+.content-wrapper {
+  margin-left: 300px;
+}
 /* 
  * See https://github.com/angular/angular.io/blob/master/public/docs/_examples/styles.css
  * for the full set of master styles used by the documentation samples
