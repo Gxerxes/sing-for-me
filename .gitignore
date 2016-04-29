@@ -54,3 +54,4 @@ app/*.js.map
 typings/
 app/**/*.js
 app/**/*.js.map
+semantic/
